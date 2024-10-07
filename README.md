@@ -1,3 +1,3 @@
-### Design - Cart V1
+### Design - Webiste
 
-<img width="322" alt="Design - Webiste" src="https://github.com/Pashakhatamihasibuan/VortexVR-web/blob/main/assets/img%20figma/VortexVR.png">
+<img width="600" alt="Design - Webiste" src="https://github.com/Pashakhatamihasibuan/VortexVR-web/blob/main/assets/img%20figma/VortexVR.png">
